@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284278863528",
+    "firebase_url": "https://androidpresensesystem-1ba9c.firebaseio.com",
+    "project_id": "androidpresensesystem-1ba9c",
+    "storage_bucket": "androidpresensesystem-1ba9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284278863528:android:252c80dfd9524383",
+        "android_client_info": {
+          "package_name": "com.example.admin.androidpresensesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284278863528-5rcg4kelb2h2hd69msidjsmbkhkqkmsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.androidpresensesystem",
+            "certificate_hash": "1cc6b11a1e7c7bf5c86964aaf6b53910e08be081"
+          }
+        },
+        {
+          "client_id": "284278863528-n1g2ae4ev3nvlctossl4kc9tv3rfs612.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANxEE2oFedxgPGJkjGy6VXmhF67FkEISM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284278863528-n1g2ae4ev3nvlctossl4kc9tv3rfs612.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
